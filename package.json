@@ -1,5 +1,6 @@
 {
 	"author": "Usman Abdullahi",
+	"Description": "The beginning of my journey in NodeJs",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
